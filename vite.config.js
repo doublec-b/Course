@@ -30,5 +30,6 @@ export default defineConfig({
         additionalData: '@import "./src/style/main.scss";'
       }
     }
-  }
+  },
+  base: "/Course/"
 })
